@@ -1,51 +1,68 @@
 using Microsoft.AspNetCore.Mvc;
+using RestWithASPNET.Business;
+using RestWithASPNET.Model;
 
 namespace RestWithASPNET.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class PersonController : ControllerBase
     {
 
         private readonly ILogger<PersonController> _logger;
+        private IPersonBusiness _personBusiness;
 
-        public PersonController(ILogger<PersonController> logger)
+        public PersonController(ILogger<PersonController> logger, IPersonBusiness personBusiness)
         {
             _logger = logger;
+            _personBusiness = personBusiness;
         }
 
-        [HttpGet("sum/{firstNumber}/{secondNumber}")]
-        public IActionResult Get(string firstNumber, string secondNumber)
+        [HttpGet]
+        public IActionResult Get()
         {
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber)) {
-                var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
-                return Ok(sum.ToString());
+            return Ok(_personBusiness.FindAll());
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult Get(long id)
+        {
+            var person = _personBusiness.FindById(id);
+            if(person == null) 
+            {
+                NotFound();
             }
 
-            return BadRequest("Invalid Input");
+            return Ok(person);
         }
 
-        private decimal ConvertToDecimal(string strNumber)
+        [HttpPost]
+        public IActionResult Post([FromBody] Person person)
         {
-            decimal decimalValue;
-            
-            if(decimal.TryParse(strNumber, out decimalValue))
-            return decimalValue;
+            if (person == null)
+            {
+                return BadRequest();
+            }
 
-            return 0;
+            return Ok(_personBusiness.Create(person));
         }
 
-        private bool IsNumeric(string strNumber)
+        [HttpPut]
+        public IActionResult Put([FromBody] Person person)
         {
-            double number;
+            if (person == null)
+            {
+                return BadRequest();
+            }
 
-            bool isNumber = double.TryParse(
-                strNumber, 
-                System.Globalization.NumberStyles.Any, 
-                System.Globalization.NumberFormatInfo.InvariantInfo, 
-                out number);
+            return Ok(_personBusiness.Update(person));
+        }
 
-            return isNumber;
+        [HttpDelete("{id}")]
+        public IActionResult Delete(long id)
+        {
+            _personBusiness.Delete(id);
+            return NoContent();
         }
     }
 }
