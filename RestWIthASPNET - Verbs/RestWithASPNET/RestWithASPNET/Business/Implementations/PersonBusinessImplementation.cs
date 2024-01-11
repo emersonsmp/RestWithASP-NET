@@ -25,7 +25,7 @@ namespace RestWithASPNET.Business.Implementations
 
         public Person Create(Person person)
         {
-            //pode incluir regras de negocio
+            //pode incluir aqui todas as regras de negocio
             //exemplo: so crie se for maior de idade
             return _repository.Create(person);
         }
