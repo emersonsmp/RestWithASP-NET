@@ -1,0 +1,191 @@
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.exe
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.deps.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.runtimeconfig.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\refint\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.genruntimeconfig.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Calculator\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\ref\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.exe
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.deps.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.runtimeconfig.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.sourcelink.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\refint\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.genruntimeconfig.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\ref\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\MySqlConnector.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWithASPNET - Verbs\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CopyComplete
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.exe
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.deps.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.runtimeconfig.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\MySqlConnector.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.sourcelink.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CopyComplete
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\refint\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.genruntimeconfig.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Version\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\ref\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.exe
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.deps.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.runtimeconfig.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Evolve.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\MySqlConnector.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.sourcelink.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CopyComplete
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\refint\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.genruntimeconfig.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Migrations\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\ref\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.AssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.sourcelink.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\refint\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.exe
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.deps.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.runtimeconfig.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\RestWithASPNET.pdb
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Evolve.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\MySqlConnector.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.RestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestWithASPNET.props
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.csproj.CopyComplete
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\RestWithASPNET.genruntimeconfig.cache
+C:\Source\ASP-NET-UDEMY\RestWithASP-NET\RestWIthASPNET - Generic Repository\RestWithASPNET\RestWithASPNET\obj\Debug\net8.0\ref\RestWithASPNET.dll
