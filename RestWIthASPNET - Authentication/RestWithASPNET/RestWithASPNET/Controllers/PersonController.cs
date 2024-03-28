@@ -1,4 +1,5 @@
 using Asp.Versioning;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestWithASPNET.Business;
 using RestWithASPNET.Data.VO;
@@ -11,6 +12,7 @@ namespace RestWithASPNET.Controllers
     //[ApiController]
     //[Route("api/[controller]/v{version:apiVersion}")]
     [ApiController]
+    [Authorize("Bearer")]
     [Route("api/person/v1")]
     public class PersonController : ControllerBase
     {

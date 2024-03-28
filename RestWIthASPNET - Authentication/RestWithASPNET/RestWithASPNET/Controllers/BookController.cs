@@ -1,4 +1,5 @@
 using Asp.Versioning;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestWithASPNET.Business;
 using RestWithASPNET.Data.VO;
@@ -8,6 +9,7 @@ namespace RestWithASPNET.Controllers
 {
 
     [ApiController]
+    [Authorize("Bearer")]
     [Route("api/[controller]/v1")]
     public class BookController : ControllerBase
     {
